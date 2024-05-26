@@ -10,7 +10,7 @@ const a =10,b="TV";
 
 
 //console.log("isMarried compare:", isMarried=="true"); //answer should be false
-console.log("a is eual to :", a===10); //true bcz value match 
+console.log("a is eual to :", a===10); //true and value match 
 console.log("a is eual to :",a==='10');//false bcz it has string
 console.log("a is eual to :",a==="car");//false bcz a =value is 10 not "car"
 

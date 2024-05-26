@@ -14,3 +14,4 @@ else{
 console.log("Stay in indoors");
 
 }
+//answer is Bring the umbrella

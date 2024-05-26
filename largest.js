@@ -10,4 +10,4 @@ else if (num2>=num3 && num2>=num3){
 else{
     largest =num3;
 }
-console.log("The largest valueis:",largest);
+console.log("The largest valueis:",largest);//largest number is 50
